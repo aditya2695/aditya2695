@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aditya Anandarajan</h1>
+<h1 align="center">Hi 👋, I'm Aditya. Welcome to my Github page</h1>
 <h3 align="center">Data Science Trainee at Digital Futures</h3>
 
+<li>Highly motivated and passionate programmer with 1.5 years of experience in software development, maintenance, and upgrades. Strong background in mathematics and statistics. Recently graduated with an MSc in Data Science and Artificial Intelligence from the University of Liverpool and currently working as a Trainee Data Scientist at Digital Futures. </li>
+<li>Key areas of interest include data mining, machine learning, and deep learning. </li>
+<li>Proficient in Python, SQL, ML algorithms, Git, and application development.</li>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adityaarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaarajan" height="30" width="40" /></a>
