@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya. Welcome to my Github page</h1>
 <h3 align="center">Data Science Trainee at Digital Futures</h3>
 
-<li>Highly motivated and passionate programmer with 1.5 years of experience in software development, maintenance, and upgrades. Strong background in mathematics and statistics. Recently graduated with an MSc in Data Science and Artificial Intelligence from the University of Liverpool and currently working as a Trainee Data Scientist at Digital Futures. </li>
-<li>Key areas of interest include data mining, machine learning, and deep learning. </li>
-<li>Proficient in Python, SQL, ML algorithms, Git, and application development.</li>
+I am a data scientist passionate about using data to drive business growth and create positive change. I specialize in data mining, machine learning, NLP, and time series analysis, and am highly proficient in Python, SQL, and Tableau. I recently completed an MSc in Data Science and Artificial Intelligence from the University of Liverpool. 
+My key areas of interest include data mining, machine learning, and deep learning. 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
